@@ -1,5 +1,5 @@
 {
-    "name": "nazarii-kretovych/laravel-api-model-driver",
+    "name": "bhaustein/laravel-api-model-driver",
     "description": "API driver for Laravel 7 and 8 Eloquent models",
     "keywords": [
         "laravel",
